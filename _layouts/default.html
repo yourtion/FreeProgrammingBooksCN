@@ -22,12 +22,17 @@
 
       <div id="banner">
         <span id="logo"></span>
-
-        <a href="{{ site.owner_url }}" class="button fork"><strong>View On GitHub</strong></a>
+        <ul class="menu">
+          <li><a href="system.html" class="button"><strong>语言无关</strong></a></li>
+          <li><a href="language.html" class="button"><strong>语言相关</strong></a></li>
+          <li><a href="test.html" class="button"><strong>测试相关</strong></a></li>
+          <li><a href="reading.html" class="button"><strong>读书笔记</strong></a></li>
+          <li><a href="other.html" class="button"><strong>程序员必读</strong></a></li>
+        </ul>
         <div class="downloads">
-          <span>Downloads:</span>
+          <span>我有推荐：</span>
           <ul>
-            <li><a href="" class="button">ZIP</a></li>
+            <li><a href="https://github.com/yourtion/FreeProgrammingBooksCN/issues/new" target="_blank" class="button">荐书</a></li>
           </ul>
         </div>
       </div><!-- end banner -->
@@ -41,9 +46,10 @@
 
       </section>
       <footer>
-          <p>Project maintained by <a href="{{ site.owner_url }}">{{ site.username }}</a></p>
-
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/michigangraham">mattgraham</a></small></p>
+          <p>
+            Project by <a href="{{ site.owner_url }}">{{ site.username }}</a> <br />
+            Theme by <a href="https://twitter.com/michigangraham">mattgraham</a>
+          </p>
       </footer>
     </div>
     <!--[if !IE]><script>fixScale(document);</script><![endif]-->
