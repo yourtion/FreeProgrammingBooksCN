@@ -13,15 +13,6 @@ layout: default
 * [Point-of-Android](https://github.com/FX-Max/Point-of-Android) Android 一些重要知识点解析整理
 * [Android6.0新特性详解](http://leanote.com/blog/post/561658f938f41126b2000298?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
-## APP
-
-* [Apache Cordova 开发指南](https://github.com/waylau/cordova-dev-guide)
-
-## AWK
-
-* [awk程序设计语言](https://github.com/wuzhouhui/awk)
-* [awk中文指南](http://awk.readthedocs.org/en/latest/index.html)
-
 ## C/C++
 
 * [C/C++ 中文参考手册](http://zh.cppreference.com/) (欢迎大家参与在线翻译和校对)
@@ -63,7 +54,7 @@ layout: default
 
 * [Clojure入门教程](http://xumingming.sinaapp.com/302/clojure-functional-programming-for-the-jvm-clojure-tutorial/)
 
-<h3 id="csshtml">CSS/HTML</h3>
+## CSS/HTML
 
 * [学习CSS布局](http://zh.learnlayout.com/)
 * [通用 CSS 笔记、建议与指导](https://github.com/chadluo/CSS-Guidelines/blob/master/README.md)
@@ -75,22 +66,6 @@ layout: default
 * [CSS3 Tutorial 《CSS3 教程》](https://github.com/waylau/css3-tutorial)
 * [MDN HTML 中文文档](https://developer.mozilla.org/zh-CN/docs/Web/HTML)
 * [MDN CSS 中文文档](https://developer.mozilla.org/zh-CN/docs/Web/CSS)
-
-## Dart
-
-* [Dart 语言导览](http://dart.lidian.info/wiki/Language_Tour)
-
-## Elixir
-
-* [Elixir编程入门](https://github.com/straightdave/programming_elixir)
-
-## Erlang
-
-* [21天学通Erlang](http://xn--21erlang-p00o82pmp3o.github.io/)
-
-## Fortran
-
-* [Fortran77和90/95编程入门](http://micro.ustc.edu.cn/Fortran/ZJDing/)
 
 ## Go
 
@@ -110,15 +85,6 @@ layout: default
 * [Go 官方文档翻译](https://github.com/golang-china/golangdoc.translations)
 * [深入解析Go](https://github.com/tiancaiamao/go-internals)
 * [Go语言圣经(中文版)](https://bitbucket.org/golang-china/gopl-zh/wiki/Home) ([GitBook](https://www.gitbook.com/book/wizardforcel/gopl-zh/details))
-
-## Groovy
-
-* [实战 Groovy 系列](http://www.ibm.com/developerworks/cn/java/j-pg/)
-
-## Haskell
-
-* [Real World Haskell 中文版](http://rwh.readthedocs.org/en/latest/)
-* [Haskell趣学指南](http://fleurer-lee.com/lyah/)
 
 ## iOS
 
@@ -233,11 +199,6 @@ layout: default
     * [Angular-Meteor 中文教程](http://angular.meteorhub.org/)
 * [Chrome扩展及应用开发](http://www.ituring.com.cn/minibook/950)
 
-## LaTeX
-
-* [一份其实很短的 LaTeX 入门文档](http://liam0205.me/2014/09/08/latex-introduction/)
-* [一份不太简短的 LATEX 2ε 介绍](http://www.mohu.org/info/lshort-cn.pdf) （PDF版）
-
 ## LISP
 * Common Lisp
     * [ANSI Common Lisp 中文翻譯版](http://acl.readthedocs.org/en/latest/)
@@ -254,10 +215,6 @@ layout: default
 * [Lua 5.1 参考手册 中文翻译](http://www.codingnow.com/2000/download/lua_manual.html)
 * [Lua 5.3 参考手册 中文翻译](http://cloudwu.github.io/lua53doc/)
 * [Lua源码欣赏](http://www.codingnow.com/temp/readinglua.pdf)
-
-## OCaml
-
-* [Real World OCaml](https://github.com/zforget/translation/tree/master/real_world_ocaml)
 
 ## Perl
 
@@ -286,10 +243,6 @@ layout: default
 * [Slim 中文文档](http://ww1.minimee.org/php/slim)
 * [Lumen 中文文档](http://lumen.laravel-china.org/)
 * [PHPUnit 中文文档](https://phpunit.de/manual/current/zh_cn/installation.html)
-
-## Prolog
-
-* [笨办法学Prolog](http://fengdidi.github.io/blog/2011/11/15/qian-yan/)
 
 ## Python
 
@@ -410,4 +363,54 @@ layout: default
 * [The Swift Programming Language 中文版](http://numbbbbb.github.io/the-swift-programming-language-in-chinese/)
 * [Swift 语言指南](http://dev.swiftguide.cn)
 * [Stanford 公开课，Developing iOS 8 Apps with Swift 字幕翻译文件](https://github.com/x140yu/Developing_iOS_8_Apps_With_Swift)   
-* [C4iOS - COSMOS](http://c4ios.swift.gg)   
+* [C4iOS - COSMOS](http://c4ios.swift.gg)
+
+## More 
+
+### APP
+
+* [Apache Cordova 开发指南](https://github.com/waylau/cordova-dev-guide)
+
+### AWK
+
+* [awk程序设计语言](https://github.com/wuzhouhui/awk)
+* [awk中文指南](http://awk.readthedocs.org/en/latest/index.html)
+
+### Dart
+
+* [Dart 语言导览](http://dart.lidian.info/wiki/Language_Tour)
+
+### Elixir
+
+* [Elixir编程入门](https://github.com/straightdave/programming_elixir)
+
+### Erlang
+
+* [21天学通Erlang](http://xn--21erlang-p00o82pmp3o.github.io/)
+
+### Fortran
+
+* [Fortran77和90/95编程入门](http://micro.ustc.edu.cn/Fortran/ZJDing/)
+
+### Groovy
+
+* [实战 Groovy 系列](http://www.ibm.com/developerworks/cn/java/j-pg/)
+
+### Haskell
+
+* [Real World Haskell 中文版](http://rwh.readthedocs.org/en/latest/)
+* [Haskell趣学指南](http://fleurer-lee.com/lyah/)
+
+### LaTeX
+
+* [一份其实很短的 LaTeX 入门文档](http://liam0205.me/2014/09/08/latex-introduction/)
+* [一份不太简短的 LATEX 2ε 介绍](http://www.mohu.org/info/lshort-cn.pdf) （PDF版）
+
+### OCaml
+
+* [Real World OCaml](https://github.com/zforget/translation/tree/master/real_world_ocaml)
+
+### Prolog
+
+* [笨办法学Prolog](http://fengdidi.github.io/blog/2011/11/15/qian-yan/)
+
