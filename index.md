@@ -2,122 +2,39 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# 免费的编程中文书籍
 
-[Link to another page](another-page).
+免费的编程中文书籍索引，欢迎投稿。
 
-There should be whitespace between paragraphs.
+[![](https://img.shields.io/github/issues/yourtion/FreeProgrammingBooksCN.svg)](https://github.com/yourtion/FreeProgrammingBooksCN/issues)
+[![](https://img.shields.io/github/forks/yourtion/FreeProgrammingBooksCN.svg)](https://github.com/yourtion/FreeProgrammingBooksCN/network)
+[![](https://img.shields.io/github/stars/yourtion/FreeProgrammingBooksCN.svg)](https://github.com/yourtion/FreeProgrammingBooksCN/stargazers)
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## 内容导航
 
-# [](#header-1)Header 1
+- [语言无关](system.html)
+- [语言相关](language.html)
+- [测试相关](test.html)
+- [读书笔记](reading.html)
+- [程序员必读](other.html)
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## 基础来源
 
-## [](#header-2)Header 2
+- [《免费的编程中文书籍索引》](https://github.com/justjavac/free-programming-books-zh_CN) 编撰整理
+- 国外程序员在 [stackoverflow](http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read/1713%231713) 推荐的程序员必读书籍，[中文版](http://justjavac.com/other/2012/05/15/qualified-programmer-should-read-what-books.html "一个合格的程序员应该读过哪些书")。
+- [stackoverflow](http://stackoverflow.com/questions/38210/what-non-programming-books-should-programmers-read) 上的程序员应该阅读的非编程类书籍有哪些？ [中文版](what-non-programming-books-should-programmers-read.md)
+- [github](https://github.com/vhf/free-programming-books) 上的一个流行的编程书籍索引  [中文版](https://github.com/vhf/free-programming-books/blob/master/free-programming-books-zh.md)
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+## 为什么做这个
 
-### [](#header-3)Header 3
+很多免费编程书籍集合的项目貌似已经停止维护了，而且很多书籍也不在了，希望重新整理一番，把之前的一些书籍进行整理。
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+包括定时使用脚本判断数据中的链接是否可用，及时更新，让大家更方便地找到书。
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+## 参与交流
 
-#### [](#header-4)Header 4
+欢迎大家将珍藏已久的经典免费书籍共享出来，您可以：
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+* 使用 [Issues](https://github.com/yourtion/FreeProgrammingBooksCN/issues) 以及 Pull Request
 
-##### [](#header-5)Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### [](#header-6)Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+贡献者名单: [https://github.com/yourtion/FreeProgrammingBooksCN/graphs/contributors](https://github.com/yourtion/FreeProgrammingBooksCN/graphs/contributors)
