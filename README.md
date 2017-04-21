@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: index.html
 ---
 
 # 免费的编程中文书籍
