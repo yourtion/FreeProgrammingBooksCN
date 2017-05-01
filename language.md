@@ -40,6 +40,10 @@ layout: default
 * [libuv中文教程](https://github.com/luohaha/Chinese-uvbook)
 * [Boost 库中文教程](http://zh.highscore.de/cpp/boost/)
 * [笨办法学C](https://github.com/wizardforcel/lcthw-zh)
+* [新概念 C 语言教程](https://github.com/limingth/NCCL)
+* [C/C++ 学习教程](http://doc.lellansin.com)
+* [C 语言常见问题集](http://c-faq-chn.sourceforge.net/ccfaq/ccfaq.html)
+* [像计算机科学家一样思考（C++版)](http://www.ituring.com.cn/book/1203) (《How To Think Like a Computer Scientist: C++ Version》中文版)
 
 ## C&#35;
 
@@ -160,6 +164,7 @@ layout: default
     * [Node debug 三法三例](http://i5ting.github.io/node-debug-tutorial/)
     * [nodejs中文文档](https://www.gitbook.com/book/0532/nodejs/details)
     * [orm2 中文文档](https://github.com/wizardforcel/orm2-doc-zh-cn)
+    * [深入理解Node.js：核心思想与源码分析](https://github.com/yjhjstz/deep-into-node)
 * underscore.js
     * [Underscore.js中文文档](http://learningcn.com/underscore/)
 * backbone.js
@@ -258,6 +263,7 @@ layout: default
 * [廖雪峰 Python 2.7 中文教程](http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000)
 * [廖雪峰 Python 3 中文教程](http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
 * [简明Python教程](http://www.kuqin.com/abyteofpython_cn/)
+* [跟老齐学Python](http://www.itdiffer.com/)
 * [零基础学 Python 第一版](http://www.kancloud.cn/kancloud/python-basic)
 * [零基础学 Python 第二版](http://www.kancloud.cn/kancloud/starter-learning-python)
 * [可爱的 Python](http://lovelypython.readthedocs.org/en/latest/)
