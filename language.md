@@ -54,10 +54,6 @@ layout: default
 * [.NET控件开发基础](https://github.com/JackWangCUMT/customcontrol)
 * [.NET开发要点精讲（初稿）](https://github.com/sherlockchou86/-free-ebook-.NET-)
 
-## Clojure
-
-* [Clojure入门教程](http://xumingming.sinaapp.com/302/clojure-functional-programming-for-the-jvm-clojure-tutorial/)
-
 ## CSS/HTML
 
 * [学习CSS布局](http://zh.learnlayout.com/)
@@ -391,6 +387,10 @@ layout: default
 
 * [awk程序设计语言](https://github.com/wuzhouhui/awk)
 * [awk中文指南](http://awk.readthedocs.org/en/latest/index.html)
+
+### Clojure
+
+* [Clojure入门教程](https://wizardforcel.gitbooks.io/clojure-fpftj/content/index.html)
 
 ### Dart
 
