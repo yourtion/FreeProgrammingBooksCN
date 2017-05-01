@@ -173,6 +173,10 @@ layout: default
     * [AngularJS入门教程](https://github.com/zensh/AngularjsTutorial_cn)
     * [构建自己的AngularJS](https://github.com/xufei/Make-Your-Own-AngularJS/blob/master/01.md)
     * [在Windows环境下用Yeoman构建AngularJS项目](http://waylau.com/build-angularjs-app-with-yeoman-in-windows/)
+* Ember.js
+    * [Ember.js英文文档](https://guides.emberjs.com/v2.7.0/)
+    * [Ember.js中文文档](http://blog.ddlisting.com/2016/05/25/ember-article-summer/)
+    * [如何构建一个复杂的Ember.js项目](http://blog.ddlisting.com/2016/03/31/ru-he-gou-jian-ge-fu-za-de-ember-jsxiang-mu/)
 * Zepto.js
     * [Zepto.js 中文文档](http://mweb.baidu.com/zeptoapi/)
 * JSLite.js
@@ -200,6 +204,9 @@ layout: default
     * [Meteor 中文文档](http://docs.meteorhub.org/#/basic/)
     * [Angular-Meteor 中文教程](http://angular.meteorhub.org/)
 * [Chrome扩展及应用开发](http://www.ituring.com.cn/minibook/950)
+* Vue.js
+    * [ Vue.js官方教程](http://cn.vuejs.org/guide/)
+    * [Vue.js 源码学习笔记](http://jiongks.name/blog/vue-code-review/)
 
 ## LISP
 * Common Lisp
@@ -295,6 +302,7 @@ layout: default
 * [Python最佳实践指南](http://pythonguidecn.readthedocs.io/zh/latest/)
 * [Python 精要教程](https://www.gitbook.com/book/wizardforcel/python-essential-tutorial/details)
 * [Python 量化交易教程](https://www.gitbook.com/book/wizardforcel/python-quant-uqer/details)
+* [Requests文档](http://docs.python-requests.org/zh_CN/latest/user/quickstart.html)
 * Django
     * [Django 1.5 文档中文版](http://django-chinese-docs.readthedocs.org/en/latest/) 正在翻译中
     * [Diango 1.7 文档中文版](http://django-1-7-doc.coding.io/)  正在翻译中，目前只翻译了目录
