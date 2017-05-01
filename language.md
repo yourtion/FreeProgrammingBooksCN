@@ -175,8 +175,10 @@ layout: default
     * [在Windows环境下用Yeoman构建AngularJS项目](http://waylau.com/build-angularjs-app-with-yeoman-in-windows/)
 * Zepto.js
     * [Zepto.js 中文文档](http://mweb.baidu.com/zeptoapi/)
+* JSLite.js
+    * [JSLite.js 中文官方文档](http://jslite.io/)
 * Sea.js
-    * [Hello Sea.js](http://island205.com/HelloSea.js/)
+    * [Sea.js 官网](http://seajs.org/)
 * React.js
     * [React.js 中文文档](http://reactjs.cn/)
     * [React webpack-cookbook](https://github.com/fakefish/react-webpack-cookbook)
