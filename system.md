@@ -157,6 +157,12 @@ layout: default
 * [每个程序员都应该了解的内存知识(译)](http://www.oschina.net/translate/what-every-programmer-should-know-about-memory-part1?print)【第一部分】
 * [取悦的工序：如何理解游戏](http://read.douban.com/ebook/4972883/) (豆瓣阅读，免费书籍)
 
+## 前端工具
+ 
+ * [SurviveJS - Webpack and React (中文版)](http://www.kancloud.cn/mproxy/webpack_and_react/61627)
+ * [RequireJS 中文](http://www.requirejs.cn/)
+ * [Grunt 中文文档](http://www.gruntjs.net/getting-started)
+
 ## 其它
 
 * [OpenWrt智能、自动、透明翻墙路由器教程](https://www.gitbook.com/book/softwaredownload/openwrt-fanqiang/details)
