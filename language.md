@@ -101,7 +101,8 @@ layout: default
 * [Apache Shiro 用户指南](https://github.com/waylau/apache-shiro-1.2.x-reference)
 * [Jersey 2.x 用户指南](https://github.com/waylau/Jersey-2.x-User-Guide)
 * [Spring Framework 4.x参考文档](https://github.com/waylau/spring-framework-4-reference)
-* [Spring Boot参考指南](https://github.com/qibaoguang/Spring-Boot-Reference-Guide) (翻译中)
+* [Spring Boot参考指南](https://github.com/qibaoguang/Spring-Boot-Reference-Guide)
+* [Spring-Data-Elasticsearch](https://es.yemengying.com)
 * [MyBatis中文文档](http://mybatis.org/mybatis-3/zh/index.html)
 * [MyBatis Generator 中文文档](http://www.mbg.cndocs.tk/)
 * [用jersey构建REST服务](https://github.com/waylau/RestDemo)
@@ -119,6 +120,7 @@ layout: default
 * [Java 编程要点](https://github.com/waylau/essential-java)
 * [Think Java](http://www.ituring.com.cn/minibook/69)
 * [Java 8 简明教程](https://github.com/wizardforcel/modern-java-zh)
+* [Kotlin 官方参考文档 中文版](https://www.gitbook.com/book/hltj/kotlin-reference-chinese/details)   
 
 ## JavaScript
 
@@ -190,6 +192,7 @@ layout: default
     * [React 入门教程](http://fraserxu.me/intro-to-react/)
     * [React Native 中文文档(含最新Android内容)](http://wiki.jikexueyuan.com/project/react-native/)
     * [Learn React & Webpack by building the Hacker News front page](https://github.com/theJian/build-a-hn-front-page)
+    * [React 入门教程](https://hulufei.gitbooks.io/react-tutorial/content/)
 * impress.js
     * [impress.js的中文教程](https://github.com/kokdemo/impress.js-tutorial-in-Chinese)
 * CoffeeScript
