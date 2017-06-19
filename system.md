@@ -5,7 +5,7 @@ layout: default
 ## 操作系统
 
 * [开源世界旅行手册](http://i.linuxtoy.org/docs/guide/index.html)
-* [鸟哥的Linux私房菜](http://vbird.dic.ksu.edu.tw/)
+* [鸟哥的Linux私房菜](http://cn.linux.vbird.org/)
 * [The Linux Command Line](http://billie66.github.io/TLCL/index.html) (中英文版)
 * [Linux 设备驱动](http://oss.org.cn/kernel-book/ldd3/index.html) (第三版)
 * [Linux Perf Master](https://riboseyim.gitbooks.io/linux-perf-master/)
@@ -27,6 +27,16 @@ layout: default
 * [命令行的艺术](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)
 * [SystemTap新手指南](https://spacewander.gitbooks.io/systemtapbeginnersguide_zh/content/index.html)
 * [操作系统思考](https://github.com/wizardforcel/think-os-zh)
+* [Kali Linux 秘籍 中文版](https://github.com/wizardforcel/kali-linux-cookbook-zh)
+* [Kali Linux Web 渗透测试秘籍 中文版](https://github.com/wizardforcel/kali-linux-web-pentest-cookbook-zh)
+* [Kali Linux 无线渗透测试入门指南 中文版](http://git.oschina.net/wizardforcel/kali-linux-wireless-pentest)
+* [Linux就该这么学](http://www.linuxprobe.com/chapter-00.html)
+
+### Docker
+ 
+ * [Docker中文文档](https://github.com/widuu/chinese_docker)
+ * [Docker中文教程](http://wiki.jikexueyuan.com/project/docker/)
+ * [Docker从入门到实践](https://yeasy.gitbooks.io/docker_practice/content/index.html)
 
 ### 智能系统
 * [一步步搭建物联网系统](https://github.com/phodal/designiot)
@@ -36,6 +46,7 @@ layout: default
 
 ## 编译原理
 * [《计算机程序的结构和解释》公开课 翻译项目](https://github.com/DeathKing/Learning-SICP)
+* [UCB CS61a 讲义 计算机程序的构造和解释 Python 描述 中文版](https://github.com/wizardforcel/sicp-py-zh)
 
 ## 函数式概念
 * [傻瓜函数编程](https://github.com/justinyhuang/Functional-Programming-For-The-Rest-of-Us-Cn)
@@ -84,31 +95,7 @@ layout: default
 * [一年成为 Emacs 高手](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide/blob/master/guide-zh.org)
 * [Emacs 生存指南](http://lifegoo.pluskid.org/upload/blog/152/Survive.in.Emacs.pdf)
 * [Atom官方手册](https://atom-china.org/t/atom/62)
-
-## NoSQL
-
-* [NoSQL数据库笔谈](http://old.sebug.net/paper/databases/nosql/Nosql.html)
-* [Redis 设计与实现](http://redisbook.com/)
-* [Redis 命令参考](http://redisdoc.com/)
-* [带有详细注释的 Redis 3.0 代码](https://github.com/huangz1990/redis-3.0-annotated)
-* [带有详细注释的 Redis 2.6 代码](https://github.com/huangz1990/annotated_redis_source)
-* [The Little MongoDB Book](https://github.com/justinyhuang/the-little-mongodb-book-cn/blob/master/mongodb.md)
-* [The Little Redis Book](https://github.com/JasonLai256/the-little-redis-book/blob/master/cn/redis.md)
-* [Neo4j 简体中文手册 v1.8](http://docs.neo4j.org.cn/)
-* [Neo4j .rb 中文資源](http://neo4j.tw/)
-* [Disque 使用教程](http://disquebook.com)
-* [Apache Spark 设计与实现](https://github.com/JerryLead/SparkInternals/tree/master/markdown)
-
-## PostgreSQL
-
-* [PostgreSQL 8.2.3 中文文档](http://works.jinbuguo.com/postgresql/menu823/index.html)
-* [PostgreSQL 9.3.1 中文文档](http://www.postgres.cn/docs/9.3/index.html)
-* [PostgreSQL 9.5.3 中文文档](http://www.postgres.cn/docs/9.5/index.html)
-
-## MySQL
-
-* [MySQL索引背后的数据结构及算法原理](http://blog.codinglabs.org/articles/theory-of-mysql-index.html)
-* [21分钟MySQL入门教程](http://www.cnblogs.com/mr-wid/archive/2013/05/09/3068229.html)
+* [VSCode指南](https://github.com/i5ting/vsc)
 
 ## 管理和监控
 
@@ -173,19 +160,21 @@ layout: default
 * [3 Web Designs in 3 Weeks](https://www.gitbook.com/book/juntao/3-web-designs-in-3-weeks/details)
 * [站点可靠性工程](https://github.com/hellorocky/Site-Reliability-Engineering)
 
-## 大数据
+## 测试相关
 
-* [大数据/数据挖掘/推荐系统/机器学习相关资源](https://github.com/Flowerowl/Big-Data-Resources)
-* [面向程序员的数据挖掘指南](https://github.com/egrcc/guidetodatamining)
-* [大型集群上的快速和通用数据处理架构](https://code.csdn.net/CODE_Translation/spark_matei_phd)
-* [数据挖掘中经典的算法实现和详细的注释](https://github.com/linyiqun/DataMiningAlgorithm)
-* [Spark 编程指南简体中文版](https://aiyanbo.gitbooks.io/spark-programming-guide-zh-cn/content/)
+* [移动APP自动化测试优秀框架Appium API Reference V1.2.0 CN](http://appium.io/slate/cn/v1.2.0/)
 
 ## 编程艺术
 
 * [程序员编程艺术](https://github.com/julycoding/The-Art-Of-Programming-by-July)
 * [每个程序员都应该了解的内存知识(译)](http://www.oschina.net/translate/what-every-programmer-should-know-about-memory-part1?print)【第一部分】
-* [取悦的工序：如何理解游戏](http://read.douban.com/ebook/4972883/) (豆瓣阅读，免费书籍)
+* [取悦的工序：如何理解游戏](https://read.douban.com/ebook/4972883/) (豆瓣阅读，免费书籍)
+
+## 前端工具
+ 
+ * [SurviveJS - Webpack and React (中文版)](http://www.kancloud.cn/mproxy/webpack_and_react/61627)
+ * [RequireJS 中文](http://www.requirejs.cn/)
+ * [Grunt 中文文档](http://www.gruntjs.net/getting-started)
 
 ## 其它
 

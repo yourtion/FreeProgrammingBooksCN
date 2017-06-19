@@ -40,6 +40,10 @@ layout: default
 * [libuv中文教程](https://github.com/luohaha/Chinese-uvbook)
 * [Boost 库中文教程](http://zh.highscore.de/cpp/boost/)
 * [笨办法学C](https://github.com/wizardforcel/lcthw-zh)
+* [新概念 C 语言教程](https://github.com/limingth/NCCL)
+* [C/C++ 学习教程](http://doc.lellansin.com)
+* [C 语言常见问题集](http://c-faq-chn.sourceforge.net/ccfaq/ccfaq.html)
+* [像计算机科学家一样思考（C++版)](http://www.ituring.com.cn/book/1203) (《How To Think Like a Computer Scientist: C++ Version》中文版)
 
 ## C&#35;
 
@@ -49,10 +53,6 @@ layout: default
 * [超全面的 .NET GDI+ 图形图像编程教程](http://www.cnblogs.com/LonelyShadow/p/4162318.html)
 * [.NET控件开发基础](https://github.com/JackWangCUMT/customcontrol)
 * [.NET开发要点精讲（初稿）](https://github.com/sherlockchou86/-free-ebook-.NET-)
-
-## Clojure
-
-* [Clojure入门教程](http://xumingming.sinaapp.com/302/clojure-functional-programming-for-the-jvm-clojure-tutorial/)
 
 ## CSS/HTML
 
@@ -101,9 +101,10 @@ layout: default
 * [Apache Shiro 用户指南](https://github.com/waylau/apache-shiro-1.2.x-reference)
 * [Jersey 2.x 用户指南](https://github.com/waylau/Jersey-2.x-User-Guide)
 * [Spring Framework 4.x参考文档](https://github.com/waylau/spring-framework-4-reference)
-* [Spring Boot参考指南](https://github.com/qibaoguang/Spring-Boot-Reference-Guide) (翻译中)
+* [Spring Boot参考指南](https://github.com/qibaoguang/Spring-Boot-Reference-Guide)
+* [Spring-Data-Elasticsearch](https://es.yemengying.com)
 * [MyBatis中文文档](http://mybatis.org/mybatis-3/zh/index.html)
-* [MyBatis Generator 中文文档](http://mbg.cndocs.tk/)
+* [MyBatis Generator 中文文档](http://www.mbg.cndocs.tk/)
 * [用jersey构建REST服务](https://github.com/waylau/RestDemo)
 * [Activiti 5.x 用户指南](https://github.com/waylau/activiti-5.x-user-guide)
 * [Google Java编程风格指南](http://www.hawstein.com/posts/google-java-style.html)
@@ -115,10 +116,11 @@ layout: default
 * [H2 Database 教程](https://github.com/waylau/h2-database-doc)
 * [Java Servlet 3.1 规范](https://github.com/waylau/servlet-3.1-specification)
 * [JSSE 参考指南](https://github.com/waylau/jsse-reference-guide)
-* [Java开源实现及最佳实践](https://github.com/biezhi/jb)
+* [Java开源实现及最佳实践](https://github.com/biezhi/java-bible)
 * [Java 编程要点](https://github.com/waylau/essential-java)
 * [Think Java](http://www.ituring.com.cn/minibook/69)
 * [Java 8 简明教程](https://github.com/wizardforcel/modern-java-zh)
+* [Kotlin 官方参考文档 中文版](https://www.gitbook.com/book/hltj/kotlin-reference-chinese/details)   
 
 ## JavaScript
 
@@ -160,6 +162,7 @@ layout: default
     * [Node debug 三法三例](http://i5ting.github.io/node-debug-tutorial/)
     * [nodejs中文文档](https://www.gitbook.com/book/0532/nodejs/details)
     * [orm2 中文文档](https://github.com/wizardforcel/orm2-doc-zh-cn)
+    * [深入理解Node.js：核心思想与源码分析](https://github.com/yjhjstz/deep-into-node)
 * underscore.js
     * [Underscore.js中文文档](http://learningcn.com/underscore/)
 * backbone.js
@@ -172,17 +175,24 @@ layout: default
     * [AngularJS中译本](https://github.com/peiransun/angularjs-cn)
     * [AngularJS入门教程](https://github.com/zensh/AngularjsTutorial_cn)
     * [构建自己的AngularJS](https://github.com/xufei/Make-Your-Own-AngularJS/blob/master/01.md)
-    * [在Windows环境下用Yeoman构建AngularJS项目](http://www.waylau.com/build-angularjs-app-with-yeoman-in-windows/)
+    * [在Windows环境下用Yeoman构建AngularJS项目](http://waylau.com/build-angularjs-app-with-yeoman-in-windows/)
+* Ember.js
+    * [Ember.js英文文档](https://guides.emberjs.com/v2.7.0/)
+    * [Ember.js中文文档](http://blog.ddlisting.com/2016/05/25/ember-article-summer/)
+    * [如何构建一个复杂的Ember.js项目](http://blog.ddlisting.com/2016/03/31/ru-he-gou-jian-ge-fu-za-de-ember-jsxiang-mu/)
 * Zepto.js
     * [Zepto.js 中文文档](http://mweb.baidu.com/zeptoapi/)
+* JSLite.js
+    * [JSLite.js 中文官方文档](http://jslite.io/)
 * Sea.js
-    * [Hello Sea.js](http://island205.com/HelloSea.js/)
+    * [Sea.js 官网](http://seajs.org/)
 * React.js
     * [React.js 中文文档](http://reactjs.cn/)
     * [React webpack-cookbook](https://github.com/fakefish/react-webpack-cookbook)
     * [React 入门教程](http://fraserxu.me/intro-to-react/)
     * [React Native 中文文档(含最新Android内容)](http://wiki.jikexueyuan.com/project/react-native/)
     * [Learn React & Webpack by building the Hacker News front page](https://github.com/theJian/build-a-hn-front-page)
+    * [React 入门教程](https://hulufei.gitbooks.io/react-tutorial/content/)
 * impress.js
     * [impress.js的中文教程](https://github.com/kokdemo/impress.js-tutorial-in-Chinese)
 * CoffeeScript
@@ -198,6 +208,9 @@ layout: default
     * [Meteor 中文文档](http://docs.meteorhub.org/#/basic/)
     * [Angular-Meteor 中文教程](http://angular.meteorhub.org/)
 * [Chrome扩展及应用开发](http://www.ituring.com.cn/minibook/950)
+* Vue.js
+    * [ Vue.js官方教程](http://cn.vuejs.org/guide/)
+    * [Vue.js 源码学习笔记](http://jiongks.name/blog/vue-code-review/)
 
 ## LISP
 * Common Lisp
@@ -249,6 +262,7 @@ layout: default
 * [廖雪峰 Python 2.7 中文教程](http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000)
 * [廖雪峰 Python 3 中文教程](http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
 * [简明Python教程](http://www.kuqin.com/abyteofpython_cn/)
+* [跟老齐学Python](http://www.itdiffer.com/)
 * [零基础学 Python 第一版](http://www.kancloud.cn/kancloud/python-basic)
 * [零基础学 Python 第二版](http://www.kancloud.cn/kancloud/starter-learning-python)
 * [可爱的 Python](http://lovelypython.readthedocs.org/en/latest/)
@@ -258,7 +272,7 @@ layout: default
 * [Python3 Cookbook 中文版](https://github.com/yidao620c/python3-cookbook)
 * [深入 Python](http://www.kuqin.com/docs/diveintopythonzh-cn-5.4b/html/toc/)
 * [深入 Python 3](http://old.sebug.net/paper/books/dive-into-python3/)
-* [PEP8 Python代码风格规范](https://code.google.com/p/zhong-wiki/wiki/PEP8)
+* [PEP8 Python代码风格规范](https://code.google.com/archive/p/zhong-wiki/wikis/PEP8.wiki)
 * [Google Python 风格指南 中文版](http://zh-google-styleguide.readthedocs.org/en/latest/google-python-styleguide/)
 * [Python入门教程](http://liam0205.me/2013/11/02/Python-tutorial-zh_cn/) ([PDF](http://liam0205.me/attachment/Python/The_Python_Tutorial_zh-cn.pdf))
 * [笨办法学 Python](http://old.sebug.net/paper/books/LearnPythonTheHardWay/) ([PDF](http://liam0205.me/attachment/Python/PyHardWay/Learn_Python_The_Hard_Way_zh-cn.pdf) [EPUB](https://www.gitbook.com/download/epub/book/wizardforcel/lpthw))
@@ -293,6 +307,7 @@ layout: default
 * [Python最佳实践指南](http://pythonguidecn.readthedocs.io/zh/latest/)
 * [Python 精要教程](https://www.gitbook.com/book/wizardforcel/python-essential-tutorial/details)
 * [Python 量化交易教程](https://www.gitbook.com/book/wizardforcel/python-quant-uqer/details)
+* [Requests文档](http://docs.python-requests.org/zh_CN/latest/user/quickstart.html)
 * Django
     * [Django 1.5 文档中文版](http://django-chinese-docs.readthedocs.org/en/latest/) 正在翻译中
     * [Diango 1.7 文档中文版](http://django-1-7-doc.coding.io/)  正在翻译中，目前只翻译了目录
@@ -375,6 +390,10 @@ layout: default
 
 * [awk程序设计语言](https://github.com/wuzhouhui/awk)
 * [awk中文指南](http://awk.readthedocs.org/en/latest/index.html)
+
+### Clojure
+
+* [Clojure入门教程](https://wizardforcel.gitbooks.io/clojure-fpftj/content/index.html)
 
 ### Dart
 
